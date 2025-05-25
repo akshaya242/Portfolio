@@ -4,23 +4,23 @@
     "imageSrc": "projects/depression.png",
     "description": "Built an NLP-based emotion detection model on 40,000+ social media entries. Used tokenization, stemming, and lemmatization in a Python pipeline for scalable preprocessing and iterative model training.",
     "skills": ["Python", "NLP", "Scikit-learn", "Pandas", "TextBlob"],
-    "demo": "https://colab.research.google.com",
-    "source": "https://github.com/yourusername/depression-analysis"
+    "demo": "",
+    "source": ""
   },
   {
     "title": "E-Learning Platform",
-    "imageSrc": "projects/elearning.png",
+    "imageSrc": "projects/quiklearn.png",
     "description": "Developed a full-stack e-learning platform with user auth and course enrollment. Migrated from Django to MERN stack, boosting engagement by 35% and simplifying backend workflows by 80%.",
     "skills": ["React", "Node.js", "MongoDB", "Express.js", "JWT"],
-    "demo": "https://elearning.example.com",
-    "source": "https://github.com/yourusername/elearning-platform"
+    "demo": "https://elearning-frontend-phi.vercel.app/",
+    "source": "https://github.com/Tanesh-a4/Elearning_22"
   },
   {
     "title": "BCI-Based Stress Detection System",
-    "imageSrc": "projects/eeg.png",
+    "imageSrc": "projects/bci.png",
     "description": "Analyzed EEG data from 40 participants using FFT and statistical feature extraction. Applied PCA and k-NN, achieving 96% accuracy with XGBoost. Built a web prototype for real-time stress prediction.",
     "skills": ["Python", "EEG", "XGBoost", "PCA", "k-NN"],
-    "demo": "https://colab.research.google.com",
-    "source": "https://github.com/yourusername/eeg-stress-detector"
+    "demo": "https://stress-detector-five.vercel.app/",
+    "source": "https://github.com/akshaya242/BCI-Project"
   }
 ]
