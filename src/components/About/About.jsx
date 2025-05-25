@@ -17,30 +17,27 @@ export const About = () => {
           <li className={styles.aboutItem}>
             <img src={getImageUrl("about/cursorIcon.png")} alt="Cursor icon" />
             <div className={styles.aboutItemText}>
-              <h3>Frontend Developer</h3>
+              <h3>Full-Stack Developer</h3>
               <p>
-                I'm a frontend developer with experience in building responsive
-                and optimized sites
+                I'm a full-stack developer with hands-on experience in building scalable web applications using React, Node.js, Django, and MongoDB. I’ve contributed to platforms like Shoonya and Anudesh, enhancing performance and user experience.
               </p>
             </div>
           </li>
           <li className={styles.aboutItem}>
             <img src={getImageUrl("about/serverIcon.png")} alt="Server icon" />
             <div className={styles.aboutItemText}>
-              <h3>Backend Developer</h3>
+              <h3>Machine Learning Enthusiast</h3>
               <p>
-                I have experience developing fast and optimised back-end systems
-                and APIs
+                I’ve worked on AI-driven projects including stress detection using EEG signals and emotion analysis from social media text. My work involves building data pipelines, preprocessing, and training high-accuracy models using Python and Scikit-learn.
               </p>
             </div>
           </li>
           <li className={styles.aboutItem}>
-            <img src={getImageUrl("about/cursorIcon.png")} alt="UI icon" />
+            <img src={getImageUrl("about/cursorIcon.png")} alt="Community icon" />
             <div className={styles.aboutItemText}>
-              <h3>UI Designer</h3>
+              <h3>Tech Community Contributor</h3>
               <p>
-                I have designed multiple landing pages and have created design
-                systems as well
+                As a core member of GDSC, I’ve led web development initiatives, designed events, and mentored peers. I enjoy collaborating and sharing knowledge through tech communities.
               </p>
             </div>
           </li>

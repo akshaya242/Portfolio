@@ -1,29 +1,25 @@
 [
   {
-    "role": "Software Engineer",
-    "organisation": "Google",
-    "startDate": "Sept, 2022",
-    "endDate": "Present",
-    "experiences": ["Worked on Google Maps", "Reduced load times by 50%"],
-    "imageSrc": "history/google.png"
-  },
-  {
-    "role": "UI Designer",
-    "organisation": "Mirosoft",
-    "startDate": "Aug, 2021",
-    "endDate": "Aug, 2022",
-    "experiences": ["Worked on Windows 11", "Designed the control panel"],
-    "imageSrc": "history/microsoft.png"
-  },
-  {
-    "role": "SWE Intern",
-    "organisation": "Netflix",
-    "startDate": "Apr, 2020",
-    "endDate": "Jun, 2020",
+    "role": "Full-Stack Developer Intern",
+    "organisation": "AI4Bharat, Chennai",
+    "imageSrc": "experience/ai4bharat.png",
+    "startDate": "May 2024",
+    "endDate": "Sept 2024",
     "experiences": [
-      "Worked on component library",
-      "Helped create UI components"
-    ],
-    "imageSrc": "history/netflix.png"
+      "Revamped and optimized over 15 React components, enhancing the UI and improving load speeds by 30%.",
+      "Collaborated on over 10 RESTful APIs, enabling seamless communication between frontend and backend.",
+      "Resolved 25+ bugs and implemented 10+ critical feature requests across major platforms including Shoonya and Anudesh."
+    ]
+  },
+  {
+    "role": "Core Member - Web Development",
+    "organisation": "Google Developer Students Club",
+    "imageSrc": "experience/gdsc.png",
+    "startDate": "2023",
+    "endDate": "2024",
+    "experiences": [
+      "Led HTML layout design for a CSS styling competition; reviewed and evaluated over 50 submissions.",
+      "Assisted in organizing logistics and planning for 5-day Ganesh Chaturthi celebrations, ensuring smooth coordination."
+    ]
   }
 ]
